@@ -1,3 +1,4 @@
-graphs/2_lb
-graphs/1_cr
+# Ignore all files in graphs with no extension
+graphs/*
+!graphs/*.cpp
 
